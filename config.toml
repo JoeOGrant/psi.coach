@@ -7,7 +7,7 @@ pluralizelisttitles = false
 
 [params]
     brand = "psi.coach"
-    brand_image = "/images/psi.jpg"    
+    brand_image = "content/images/psi.jpg"    
     description = "Explore your soul"
     dark_mode = true
 
